@@ -8,3 +8,6 @@ HTML stands for Hypertext Markup language #break
 - Learned about tags for headings and paragraphs
 - Learned about horizontal bar #horizontal bar and #break Break Elements
   
+04.28.24
+
+-Learned about attributes, specifically anchor elements (href="")
